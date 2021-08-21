@@ -1,0 +1,8 @@
+{
+    "GET": "https://pixabay.com/api/",
+    "API_KEY": "?key=22602926-3614d0f9783b43324aa2f82a8",
+    "query": "&q=",
+    "page": "&page=",
+    "per_page": "&per_page=12"
+
+}
